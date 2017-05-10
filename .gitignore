@@ -14,7 +14,6 @@
 *.dyn_o
 *.pyc
 /npm-debug.log
-/databrary.conf
 /unreset.dump
 .idea
 /dbrary/
