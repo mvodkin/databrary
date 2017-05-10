@@ -6,7 +6,7 @@
     "jquery": "^1.12.3",
     "angular": "~1.4",
     "angular-route": "~1.4",
-    "ng-flow": "^2.7.1",
+    "ng-flow": "^2",
     "lodash": "^3.0.0",
     "angular-ui-slider": "0.4.0",
     "pivottable": "^2.0"
