@@ -6,9 +6,9 @@
     "jquery": "^1.12.3",
     "angular": "~1.4",
     "angular-route": "~1.4",
-    "ng-flow": "^2",
+    "ng-flow": "*",
     "lodash": "^3.0.0",
-    "angular-ui-slider": "0.4.0",
+    "angular-ui-slider": "*",
     "pivottable": "^2.0"
   }
 }
