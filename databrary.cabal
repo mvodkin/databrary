@@ -164,4 +164,3 @@ Executable databrary
 
   pkgconfig-depends: libavformat, libswscale, libavcodec, libavutil
   extra-libraries: crack
-  build-tools: npm
