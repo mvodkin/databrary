@@ -8,7 +8,7 @@
     "angular-route": "~1.4",
     "ng-flow": "^2.7.1",
     "lodash": "^3.0.0",
-    "angular-ui-slider": "~0.1.6",
+    "angular-ui-slider": "0.4.0",
     "pivottable": "^2.0"
   }
 }
